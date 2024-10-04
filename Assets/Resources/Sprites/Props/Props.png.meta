@@ -1,0 +1,1424 @@
+fileFormatVersion: 2
+guid: f7b37b91088c7d44b98c5e710477bd39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4334513479839838490
+    second: Small_Wooden_Table
+  - first:
+      213: -7363826529030984910
+    second: Small_Wooden_Table_Broken_West
+  - first:
+      213: -7385372698752547042
+    second: Small_Wooden_Table_Broken_East
+  - first:
+      213: -4660724893118282161
+    second: Wide_Wooden_Table
+  - first:
+      213: 6474533612381454296
+    second: Wide_Wooden_Table_Broken
+  - first:
+      213: 5577466390707480720
+    second: Wooden_Crate
+  - first:
+      213: -7320739921232939290
+    second: Loot_Sack_Knocked_Over
+  - first:
+      213: 801322620620196824
+    second: Loot_Sack
+  - first:
+      213: -3055491028573861754
+    second: Wooden_Chair_West_Knocked_Over
+  - first:
+      213: -1792360492762611805
+    second: Wooden_Chair_East_Knocked_Over
+  - first:
+      213: 6352683301991889936
+    second: Candle
+  - first:
+      213: -708347240892218557
+    second: Large_Wooden_Table
+  - first:
+      213: -4699302077504393560
+    second: Large_Wooden_Table_Broken
+  - first:
+      213: -7370078311767567610
+    second: Long_Wooden_Table
+  - first:
+      213: -6176822522777527773
+    second: Long_Wooden_Table_Broken_West
+  - first:
+      213: 1571723536551405922
+    second: Long_Wooden_Table_Broken_East
+  - first:
+      213: 8665862129789353982
+    second: Wall_Banner_Damaged_3
+  - first:
+      213: -452686182277670640
+    second: Wall_Banner_Damaged_4
+  - first:
+      213: -1744519679538091734
+    second: Wooden_Chair_North
+  - first:
+      213: 8897469135044545092
+    second: Wooden_Chair_South
+  - first:
+      213: 7145537068944724988
+    second: Wooden_Chair_West
+  - first:
+      213: -5523947511434668376
+    second: Wooden_Chair_East
+  - first:
+      213: -7772804643466321288
+    second: Studded_Wooden_Chest_Closed
+  - first:
+      213: -4793930135710869741
+    second: Studded_Wooden_Chest_Open
+  - first:
+      213: -976886061938866911
+    second: Soldier_Statue_Shiny_North
+  - first:
+      213: -8142427736612402864
+    second: Soldier_Statue_Steel_North
+  - first:
+      213: 1377524041632965078
+    second: Soldier_Statue_Iron_North
+  - first:
+      213: 4248342514113045684
+    second: Iron_Cauldron
+  - first:
+      213: -6824210185934471467
+    second: Soldier_Statue_Shiny_West
+  - first:
+      213: -2068701153768235537
+    second: Soldier_Statue_Shiny_East
+  - first:
+      213: 7637614873100429697
+    second: Soldier_Statue_Steel_West
+  - first:
+      213: -6981661289956555602
+    second: Soldier_Statue_Steel_East
+  - first:
+      213: 3452847209057597333
+    second: Soldier_Statue_Iron_West
+  - first:
+      213: 8429934069909918921
+    second: Soldier_Statue_Iron_East
+  - first:
+      213: -6777741595023818117
+    second: Soldier_Statue_Shiny_South
+  - first:
+      213: 2407569730772218126
+    second: Soldier_Statue_Steel_South
+  - first:
+      213: 7590507637562920295
+    second: Soldier_Statue_Iron_South
+  - first:
+      213: 1635386755859129622
+    second: Minifantasy_DungeonProps_38
+  - first:
+      213: -2220022193867023539
+    second: Minifantasy_DungeonProps_39
+  - first:
+      213: -4734252548999780425
+    second: Minifantasy_DungeonProps_40
+  - first:
+      213: -635356872743271638
+    second: Minifantasy_DungeonProps_41
+  - first:
+      213: -181100321358885483
+    second: Minifantasy_DungeonProps_42
+  - first:
+      213: -3913256368636532430
+    second: Minifantasy_DungeonProps_43
+  - first:
+      213: -7782140716537413953
+    second: Minifantasy_DungeonProps_44
+  - first:
+      213: -1529008397955797636
+    second: Minifantasy_DungeonProps_45
+  - first:
+      213: 598555733636129780
+    second: Minifantasy_DungeonProps_46
+  - first:
+      213: -9202314890269559311
+    second: Minifantasy_DungeonProps_47
+  - first:
+      213: -6210444957569510133
+    second: Minifantasy_DungeonProps_48
+  - first:
+      213: 6021168975482998258
+    second: Minifantasy_DungeonProps_49
+  - first:
+      213: 7073236119299992956
+    second: Wall_Banner_Damaged_2
+  - first:
+      213: -3028991587959703504
+    second: Wall_Banner
+  - first:
+      213: -664116926571241061
+    second: Wall_Banner_Damaged_1
+  - first:
+      213: -2424331314724735504
+    second: Wall_Banner_Damaged_0
+  - first:
+      213: -7640242614159672242
+    second: Clay_Pot
+  - first:
+      213: 5545459940517624553
+    second: Clay_Plate
+  - first:
+      213: -794116353344462730
+    second: Clay_Jar_Red
+  - first:
+      213: -8676482130136216939
+    second: Clay_Jar_Blue
+  - first:
+      213: -8984791981334975670
+    second: Clay_Jar_Green
+  - first:
+      213: 7424551818697878573
+    second: Gold_Coins
+  - first:
+      213: 3144447385544774128
+    second: Wall_Torch
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Small_Wooden_Table
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11feff6b09472c30800000000000000
+      internalID: 4334513479839838490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_Wooden_Table_Broken_West
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ba28d79ce6ec990800000000000000
+      internalID: -7363826529030984910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_Wooden_Table_Broken_East
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e178cfce8a2e18990800000000000000
+      internalID: -7385372698752547042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wide_Wooden_Table
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f464ddd3767c15fb0800000000000000
+      internalID: -4660724893118282161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wide_Wooden_Table_Broken
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb254540a2ad950800000000000000
+      internalID: 6474533612381454296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098acc4b124276d40800000000000000
+      internalID: 5577466390707480720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_Sack_Knocked_Over
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6b3ed14d1876a90800000000000000
+      internalID: -7320739921232939290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_Sack
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db4d888daede1b00800000000000000
+      internalID: 801322620620196824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_West_Knocked_Over
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 120
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68846732917b895d0800000000000000
+      internalID: -3055491028573861754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_East_Knocked_Over
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 120
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb07fc0a14027e0800000000000000
+      internalID: -1792360492762611805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 120
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c38c12ec3492850800000000000000
+      internalID: 6352683301991889936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large_Wooden_Table
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343cdf8ffe17b26f0800000000000000
+      internalID: -708347240892218557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large_Wooden_Table_Broken
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae681298a9b8ceb0800000000000000
+      internalID: -4699302077504393560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long_Wooden_Table
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6039844e2d838b990800000000000000
+      internalID: -7370078311767567610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long_Wooden_Table_Broken_West
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a963944a4874aa0800000000000000
+      internalID: -6176822522777527773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long_Wooden_Table_Broken_East
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696449aa32efc510800000000000000
+      internalID: 1571723536551405922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Banner_Damaged_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 97
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effba9e71b3534870800000000000000
+      internalID: 8665862129789353982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Banner_Damaged_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0199c9ec05cb7b9f0800000000000000
+      internalID: -452686182277670640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_North
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 97
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29247528983ac7e0800000000000000
+      internalID: -1744519679538091734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_South
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a055a99092a7b70800000000000000
+      internalID: 8897469135044545092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_West
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 97
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf316d30b1c0a2360800000000000000
+      internalID: 7145537068944724988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_East
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a69807610ff653b0800000000000000
+      internalID: -5523947511434668376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Studded_Wooden_Chest_Closed
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872eeaddb53712490800000000000000
+      internalID: -7772804643466321288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Studded_Wooden_Chest_Open
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d9eed0f9887db0800000000000000
+      internalID: -4793930135710869741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Shiny_North
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 76
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1258a1c6d476172f0800000000000000
+      internalID: -976886061938866911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Steel_North
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0590eed2d19400f80800000000000000
+      internalID: -8142427736612402864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Iron_North
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1e71341d2fd1310800000000000000
+      internalID: 1377524041632965078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Cauldron
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 82
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e5e5020525fa30800000000000000
+      internalID: 4248342514113045684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Shiny_West
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def5cafdf88b41a0800000000000000
+      internalID: -6824210185934471467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Shiny_East
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed1437d24f7a43e0800000000000000
+      internalID: -2068701153768235537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Steel_West
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1892462e2424ef960800000000000000
+      internalID: 7637614873100429697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Steel_East
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea44b061c082c1f90800000000000000
+      internalID: -6981661289956555602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Iron_West
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b39f1e3afaef20800000000000000
+      internalID: 3452847209057597333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Iron_East
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c491f47f542df470800000000000000
+      internalID: 8429934069909918921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Shiny_South
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b724739edef90f1a0800000000000000
+      internalID: -6777741595023818117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Steel_South
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0139ae0ae7696120800000000000000
+      internalID: 2407569730772218126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Iron_South
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 52
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc3d9ea76e65960800000000000000
+      internalID: 7590507637562920295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Banner_Damaged_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da65f56ce292260800000000000000
+      internalID: 7073236119299992956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Banner
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 97
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f304f23cd6f5d0800000000000000
+      internalID: -3028991587959703504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Banner_Damaged_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 97
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a5668c2598c6f0800000000000000
+      internalID: -664116926571241061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Banner_Damaged_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f9ff838b0b5ed0800000000000000
+      internalID: -2424331314724735504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay_Pot
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cf53972d768f590800000000000000
+      internalID: -7640242614159672242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay_Plate
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea36be4f6e65fc40800000000000000
+      internalID: 5545459940517624553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay_Jar_Red
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 123
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6702390526bbaf4f0800000000000000
+      internalID: -794116353344462730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay_Jar_Blue
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 123
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ac43df871f69780800000000000000
+      internalID: -8676482130136216939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay_Jar_Green
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 123
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b20c3eb4b9f4380800000000000000
+      internalID: -8984791981334975670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_Coins
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 122
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca7f9ca8e490760800000000000000
+      internalID: 7424551818697878573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Torch
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 98
+        width: 3
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f15d46bc3253ab20800000000000000
+      internalID: 3144447385544774128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Candle: 6352683301991889936
+      Clay_Jar_Blue: -8676482130136216939
+      Clay_Jar_Green: -8984791981334975670
+      Clay_Jar_Red: -794116353344462730
+      Clay_Plate: 5545459940517624553
+      Clay_Pot: -7640242614159672242
+      Gold_Coins: 7424551818697878573
+      Iron_Cauldron: 4248342514113045684
+      Large_Wooden_Table: -708347240892218557
+      Large_Wooden_Table_Broken: -4699302077504393560
+      Long_Wooden_Table: -7370078311767567610
+      Long_Wooden_Table_Broken_East: 1571723536551405922
+      Long_Wooden_Table_Broken_West: -6176822522777527773
+      Loot_Sack: 801322620620196824
+      Loot_Sack_Knocked_Over: -7320739921232939290
+      Small_Wooden_Table: 4334513479839838490
+      Small_Wooden_Table_Broken_East: -7385372698752547042
+      Small_Wooden_Table_Broken_West: -7363826529030984910
+      Soldier_Statue_Iron_East: 8429934069909918921
+      Soldier_Statue_Iron_North: 1377524041632965078
+      Soldier_Statue_Iron_South: 7590507637562920295
+      Soldier_Statue_Iron_West: 3452847209057597333
+      Soldier_Statue_Shiny_East: -2068701153768235537
+      Soldier_Statue_Shiny_North: -976886061938866911
+      Soldier_Statue_Shiny_South: -6777741595023818117
+      Soldier_Statue_Shiny_West: -6824210185934471467
+      Soldier_Statue_Steel_East: -6981661289956555602
+      Soldier_Statue_Steel_North: -8142427736612402864
+      Soldier_Statue_Steel_South: 2407569730772218126
+      Soldier_Statue_Steel_West: 7637614873100429697
+      Studded_Wooden_Chest_Closed: -7772804643466321288
+      Studded_Wooden_Chest_Open: -4793930135710869741
+      Wall_Banner: -3028991587959703504
+      Wall_Banner_Damaged_0: -2424331314724735504
+      Wall_Banner_Damaged_1: -664116926571241061
+      Wall_Banner_Damaged_2: 7073236119299992956
+      Wall_Banner_Damaged_3: 8665862129789353982
+      Wall_Banner_Damaged_4: -452686182277670640
+      Wall_Torch: 3144447385544774128
+      Wide_Wooden_Table: -4660724893118282161
+      Wide_Wooden_Table_Broken: 6474533612381454296
+      Wooden_Chair_East: -5523947511434668376
+      Wooden_Chair_East_Knocked_Over: -1792360492762611805
+      Wooden_Chair_North: -1744519679538091734
+      Wooden_Chair_South: 8897469135044545092
+      Wooden_Chair_West: 7145537068944724988
+      Wooden_Chair_West_Knocked_Over: -3055491028573861754
+      Wooden_Crate: 5577466390707480720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
