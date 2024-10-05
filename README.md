@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/60070e91-def3-4669-8310-26666498af9d)
 <!-- Ctrl + k + v-->
 
 # :wrench: Procedural Map Generator
