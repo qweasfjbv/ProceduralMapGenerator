@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/60070e91-def3-4669-8310-26666498af9d)
 <!-- Ctrl + k + v-->
 
 # :wrench: Procedural Map Generator
@@ -210,7 +210,49 @@ else if (quadrant == 1 || quadrant == 4)
 
 ## Overview
 
+While we can obtain map information through the procedural map generator, it cannot be used directly in the game. 
+
+Instead, we will use that information to perform AutoTiling and create a map that can actually be used in the game.
+
+The assets used are as follows: [Unity Asset Store](https://assetstore.unity.com/packages/2d/environments/minifantasy-dungeon-206693)
+
+One characteristic of this asset is that the walls are made up of two grids.
+
+Considering this feature, I implemented a system using Layer Masks to lay down the appropriate tiles.
+
 ## Parameters
 
+![image](https://github.com/user-attachments/assets/18c36e6f-d160-4cd5-8e81-353f3a9ef0d7)
 
+There are lots of parameters, but simply two things : **Tilemap** and **Tile**
+
+I seperate tilemap because of **layer order**, but it isn't perfect. ( Only 1x1 Grid Chrarcter can move free )
+
+If you have any suggestions for improvements, please send me an email.
+
+<br/>
+
+The tiles below determine which tiles to place based on certain rules.
+
+All the rules are written in Bitmask, and I have not yet noticed any awkward parts that stand out. **Like this**:
+
+![image](https://github.com/user-attachments/assets/c038ca18-f8aa-4071-a8c1-79ceec5a8fce)
+
+
+## Examples
+
+### Only Floor
+<image src="https://github.com/user-attachments/assets/84c7cf13-552a-4ec2-b2c6-9bee6318d63c" width="60%"></image>
+
+### Floor + Wall
+<image src="https://github.com/user-attachments/assets/35826a6e-222c-485a-836a-e78146e9ec89" width="60%"></image>
+
+### Floor + Wall + WallTop
+<image src="https://github.com/user-attachments/assets/3fd3bf69-078a-48d3-b84a-aa50b61080a5" width="60%"></image>
+
+### Floor + Walls + Cliff
+<image src="https://github.com/user-attachments/assets/ba737555-e208-430d-9fba-4c42c50d8270" width="60%"></image>
+
+### Add Shadow
+<image src="https://github.com/user-attachments/assets/7b1527d3-bfcb-49a5-a951-ab73d58fe3d6" width="60%"></image>
 
