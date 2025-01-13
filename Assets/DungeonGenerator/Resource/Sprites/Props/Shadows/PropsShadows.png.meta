@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: bedf2249d571fad4bb00e65a7679e446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4323101415237281611
+    second: Small_Wooden_Table_Shadow
+  - first:
+      213: -201388941982666039
+    second: Small_Wooden_Table_Broken_West_Shadow
+  - first:
+      213: 1555585009177036896
+    second: Small_Wooden_Table_Broken_East_Shadow
+  - first:
+      213: -1251097633990704145
+    second: Wide_Wooden_Table_Shadow
+  - first:
+      213: 5472987855207448432
+    second: Wide_Wooden_Table_Broken_Shadow
+  - first:
+      213: 8098204612460016722
+    second: Wooden_Crate_Shadow
+  - first:
+      213: -5018907269183208951
+    second: Loot_Sack_Knocked_Over_Shadow
+  - first:
+      213: -109379005264513712
+    second: Loot_Sack_Shadow
+  - first:
+      213: 7745867119198030996
+    second: Clay_Pot_Shadow
+  - first:
+      213: 7746532262694463226
+    second: Clay_Plate_Shadow
+  - first:
+      213: -5707590503024773065
+    second: Clay_Mug_Shadow
+  - first:
+      213: -7705244556953326594
+    second: Wooden_Chair_West_Knocked_Over_Shadow
+  - first:
+      213: -5337670303548885857
+    second: Wooden_Chair_East_Knocked_Over_Shadow
+  - first:
+      213: -8420322007779036204
+    second: Candle_Shadow
+  - first:
+      213: 2313429850533536075
+    second: Large_Wooden_Table_Shadow
+  - first:
+      213: -3263390419124328559
+    second: Large_Wooden_Table_Broken_Shadow
+  - first:
+      213: -1071254262379427136
+    second: Long_Wooden_Table_Shadow
+  - first:
+      213: -5059754668654186227
+    second: Long_Wooden_Table_Broken_West_Shadow
+  - first:
+      213: 5084460836007813195
+    second: Long_Wooden_Table_Broken_East_Shadow
+  - first:
+      213: 5528457433268544252
+    second: Damaged_Banner_0_Shadow
+  - first:
+      213: 8098068279398977029
+    second: Damaged_Banner_1_Shadow
+  - first:
+      213: 5279663051781710251
+    second: Banner_Shadow
+  - first:
+      213: 2521061885386690621
+    second: Damaged_Banner_2_Shadow
+  - first:
+      213: -3511487948510583650
+    second: Damaged_Banner_3_Shadow
+  - first:
+      213: -7232355327869492076
+    second: Damaged_Banner_4_Shadow
+  - first:
+      213: -8754962507700609825
+    second: Wooden_Chair_West_Shadow
+  - first:
+      213: -6877039535093087107
+    second: Wooden_Chair_North_Shadow
+  - first:
+      213: 5493687131121094212
+    second: Wooden_Chair_South_Shadow
+  - first:
+      213: 7746534282326919062
+    second: Wooden_Chair_East_Shadow
+  - first:
+      213: 316941724705502740
+    second: Chest_Shadow
+  - first:
+      213: 6021448441947824300
+    second: ChestOpen_Shadow_Minifantasy_DungeonPropsShadows_30
+  - first:
+      213: -3040155771120981901
+    second: Iron_Cauldron_Shadow
+  - first:
+      213: 5812831960368060511
+    second: Soldier_Statue_Shadow
+  - first:
+      213: 9089653519701259844
+    second: PropsShadows_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Small_Wooden_Table_Shadow
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e43715ddbefb30800000000000000
+      internalID: 4323101415237281611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_Wooden_Table_Broken_West_Shadow
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27e6303d5843df0800000000000000
+      internalID: -201388941982666039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_Wooden_Table_Broken_East_Shadow
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688be1f25c869510800000000000000
+      internalID: 1555585009177036896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wide_Wooden_Table_Shadow
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe307aa945533aee0800000000000000
+      internalID: -1251097633990704145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wide_Wooden_Table_Broken_Shadow
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbaa90575f3fb40800000000000000
+      internalID: 5472987855207448432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Shadow
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254fb1c503a926070800000000000000
+      internalID: 8098204612460016722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_Sack_Knocked_Over_Shadow
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90285b31e62495ab0800000000000000
+      internalID: -5018907269183208951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_Sack_Shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b25dcf586b7ef0800000000000000
+      internalID: -109379005264513712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay_Pot_Shadow
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4d250b19de7b60800000000000000
+      internalID: 7745867119198030996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay_Plate_Shadow
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a10fcc06318b60800000000000000
+      internalID: 7746532262694463226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay_Mug_Shadow
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738b0d77da09ac0b0800000000000000
+      internalID: -5707590503024773065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_West_Knocked_Over_Shadow
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 120
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe84b46e8711590800000000000000
+      internalID: -7705244556953326594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_East_Knocked_Over_Shadow
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9431dc9329cce5b0800000000000000
+      internalID: -5337670303548885857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle_Shadow
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d33de72fb1052b80800000000000000
+      internalID: -8420322007779036204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large_Wooden_Table_Shadow
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4126d52134fa1020800000000000000
+      internalID: 2313429850533536075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large_Wooden_Table_Broken_Shadow
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976ea834bb16b2d0800000000000000
+      internalID: -3263390419124328559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long_Wooden_Table_Shadow
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca40c29ce32221f0800000000000000
+      internalID: -1071254262379427136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long_Wooden_Table_Broken_West_Shadow
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d013e34cfe328c9b0800000000000000
+      internalID: -5059754668654186227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long_Wooden_Table_Broken_East_Shadow
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a1a41132af8640800000000000000
+      internalID: 5084460836007813195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_Banner_0_Shadow
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2e6d99eb609bc40800000000000000
+      internalID: 5528457433268544252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_Banner_1_Shadow
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4f68d13e126070800000000000000
+      internalID: 8098068279398977029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_Shadow
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1243f9291254940800000000000000
+      internalID: 5279663051781710251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_Banner_2_Shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3010477d6c9cf220800000000000000
+      internalID: 2521061885386690621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_Banner_3_Shadow
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9426f3c050b44fc0800000000000000
+      internalID: -3511487948510583650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged_Banner_4_Shadow
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946fe0e52381ab90800000000000000
+      internalID: -7232355327869492076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_West_Shadow
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc54aa2cff108680800000000000000
+      internalID: -8754962507700609825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_North_Shadow
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74857c9af8df80a0800000000000000
+      internalID: -6877039535093087107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_South_Shadow
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e8b95c65f7d3c40800000000000000
+      internalID: 5493687131121094212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Chair_East_Shadow
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974b7a03e7318b60800000000000000
+      internalID: 7746534282326919062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Shadow
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4163293c1d0066400800000000000000
+      internalID: 316941724705502740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Cauldron_Shadow
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ea700f623fc5d0800000000000000
+      internalID: -3040155771120981901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier_Statue_Shadow
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 75
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5896c8ced35ba050800000000000000
+      internalID: 5812831960368060511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Banner_Shadow: 5279663051781710251
+      Candle_Shadow: -8420322007779036204
+      Chest_Shadow: 316941724705502740
+      Clay_Mug_Shadow: -5707590503024773065
+      Clay_Plate_Shadow: 7746532262694463226
+      Clay_Pot_Shadow: 7745867119198030996
+      Damaged_Banner_0_Shadow: 5528457433268544252
+      Damaged_Banner_1_Shadow: 8098068279398977029
+      Damaged_Banner_2_Shadow: 2521061885386690621
+      Damaged_Banner_3_Shadow: -3511487948510583650
+      Damaged_Banner_4_Shadow: -7232355327869492076
+      Iron_Cauldron_Shadow: -3040155771120981901
+      Large_Wooden_Table_Broken_Shadow: -3263390419124328559
+      Large_Wooden_Table_Shadow: 2313429850533536075
+      Long_Wooden_Table_Broken_East_Shadow: 5084460836007813195
+      Long_Wooden_Table_Broken_West_Shadow: -5059754668654186227
+      Long_Wooden_Table_Shadow: -1071254262379427136
+      Loot_Sack_Knocked_Over_Shadow: -5018907269183208951
+      Loot_Sack_Shadow: -109379005264513712
+      Small_Wooden_Table_Broken_East_Shadow: 1555585009177036896
+      Small_Wooden_Table_Broken_West_Shadow: -201388941982666039
+      Small_Wooden_Table_Shadow: 4323101415237281611
+      Soldier_Statue_Shadow: 5812831960368060511
+      Wide_Wooden_Table_Broken_Shadow: 5472987855207448432
+      Wide_Wooden_Table_Shadow: -1251097633990704145
+      Wooden_Chair_East_Knocked_Over_Shadow: -5337670303548885857
+      Wooden_Chair_East_Shadow: 7746534282326919062
+      Wooden_Chair_North_Shadow: -6877039535093087107
+      Wooden_Chair_South_Shadow: 5493687131121094212
+      Wooden_Chair_West_Knocked_Over_Shadow: -7705244556953326594
+      Wooden_Chair_West_Shadow: -8754962507700609825
+      Wooden_Crate_Shadow: 8098204612460016722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

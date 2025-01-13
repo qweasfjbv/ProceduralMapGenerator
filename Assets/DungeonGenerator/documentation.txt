@@ -1,0 +1,47 @@
+	Documentation.
+
+	qweasfjbv.
+
+	Thank you for purchasing our product.
+	We hope our tools make your development process more convenient.
+
+	If you have a better idea/optimization method or find any bugs, please contact me via Email.
+	My Email address is : yeoinho75@gmail.com
+
+	This asset includes:
+		
+		- Source code of needed algorithms.
+		- MapGenerator, AutoTiling Scripts.
+		- DemoScene with appropriate parameters applied.
+
+
+	How To Use:
+		
+		- Attach the `MapGenerator` and `AutoTiling` script to GameObject you want to use.
+		- Create Singleton GameObject for `Visualization`	(Optional)
+		- Assign the appropriate parameters.				(please refer to DemoScene)
+		- Start the Coroutine `MapGenerateCoroutine` from `MapGenerator`
+
+
+	How To Modify:
+
+		- If you want to use ONLY `MapGenerator`, then:
+			- REMOVE `[RequireComponent(typeof(AutoTiling))]` from top of script.
+			- REMOVE `GetComponent<AutoTiling>().TilingMap();` from `MapGenerateCoroutine` in `MapGenerator`.
+			- THEN You can get map arr ONLY.
+
+		- If you don't want to use `Visualize`, then:
+			- You don't have to make Singleton gameobject for `Visualization`.
+			- You must set `IsVisualizeProgress` to false. (It can occur NULL Error.)
+
+		- For any Other Problems, then:
+			- You can leave a comment with any areas that need improvement or features you would like to see.
+			- You can email me directly at: ( yeoinho75@gmail.com )
+
+
+	External Asset Used
+		- All of Tile sprites	:	[MINIFANTASY - Dungeon] by [Krishna Palacio]
+
+	This external asset was used in accordance with the [Standard Unity Asset Store EULA] License.
+
+	
